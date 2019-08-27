@@ -1,0 +1,25 @@
+.avatar_club_data {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.avatar_image_cover {
+    width: 20%;
+    margin-right: 7px;
+}
+
+.avatar_image {
+    width: 100%
+}
+
+.scorer__wrapper {
+    background: #F0F1F3;
+}
+
+.scorer_content {
+   padding: 10px;
+}
+
+.points {
+    text-align: center;
+}

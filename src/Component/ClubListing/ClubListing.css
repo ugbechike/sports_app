@@ -1,0 +1,48 @@
+.club__image-wrapper{
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.arsenal {
+    background: #003574;
+}
+
+.chelsea {
+    background: #034694;
+}
+
+.juvey {
+    background: #FFFFFF;
+}
+
+.napoli {
+    background: #199FD6;
+}
+
+.barca {
+    background: #004B95;
+}
+
+.mancity {
+    background: #85BFEF;
+}
+
+.club__image{
+    width: 100%;
+}
+
+.seemore__posts{
+    text-align: right;
+    color: #8B90A0;
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.top_teams{
+    color: #232735;
+    font-size: 23px;
+    line-height: 25px;
+}

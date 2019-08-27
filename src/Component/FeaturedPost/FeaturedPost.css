@@ -1,0 +1,77 @@
+.post__side__card {
+background:  #F0F1F3;
+color: #000000;
+font-size: 16px;
+width: 70%;
+padding: 12px;
+
+}
+
+.image__posts {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.post__side__image {
+    width: 30%;
+}
+
+.post__image {
+    width: 100%;
+    height: 100%;
+}
+
+.post__time {
+    position: relative;
+    left: 65%;
+    color: #4C505F;
+    font-size: 12px
+}
+
+.post__wrapper {
+    margin-top: 120px;
+        margin-bottom: 40px;
+
+}
+
+.Post__card {
+    height: 480px;
+    background: #F0F1F3;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 10px;
+}
+
+.post__card__image {
+    height: 280px;
+    width: 100%;
+}
+
+.clubImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.post__card__content{
+    width: 91%;
+    margin: auto;
+}
+
+.poster__logo__timer {
+    margin-top: 54px;
+}
+
+.post__card__title {
+    font-size: 29px;
+}
+
+.poster__logo {
+    width: 20%;
+}
+
+/* .poster__timer {
+    position: relative;
+    top: 64px;
+    left: 30em;
+} */

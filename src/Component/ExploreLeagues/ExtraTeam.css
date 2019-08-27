@@ -1,0 +1,24 @@
+.show {
+    margin: auto;
+    width: 90%;
+    border-bottom: 1px solid #D3D4D8;;
+    padding: 12px;
+}
+
+.international {
+    border-bottom: 1px solid #D3D4D8;
+    padding: 12px;
+    cursor: pointer;
+    /* margin-bottom: 12px; */
+    color: #000000 !important;
+}
+
+.cover{
+    height: 28vh;
+    border: 1px solid #F0F1F3;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #F0F1F3;
+    border-radius: 0px 0px 5px 5px;
+    margin-top: -17px;
+}

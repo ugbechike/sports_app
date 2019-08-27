@@ -1,0 +1,69 @@
+.fixtures__live{
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+}
+
+.navigation__alignment {
+    text-align: center;
+}
+
+.comp__clubs {
+    text-align: center;
+}
+
+.comp_match__time {
+    border-radius: 5px;
+    background: #C4C4C4;
+    text-align: center;
+    color: #000000;
+    max-width: 12% !important;
+    padding: 12px;
+}
+
+.comp_feature__logo {
+    width: 52%
+}
+
+.fixture__league{
+    text-align: center;
+    background: #000060;
+    color: white;
+    padding: 7px;
+    margin-bottom: 3vh;
+}
+.fixtures__live div{
+    margin-right: 12px;
+    display: inline-block;
+}
+.fixtures__live img{
+    margin: 5px;
+}
+.score__div{
+    background: #C4C4C4;
+    opacity: 0.5;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.navigate{
+    color: #121232;
+    font-size: 12px;
+    display: flex;
+    margin-bottom: 4vh;
+}
+.navigate span{
+    margin-right: 2vw;
+    color: #121232;
+    margin-left: 2vw;
+}
+.react-calendar__tile--active {
+    background: #A52121 !important;
+    color: white;
+    border-radius: 25px;
+}
+.react-calendar {
+    background: #F0F1F3 !important;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) !important;
+    color: #4C505F !important;
+    border: none !important;
+}

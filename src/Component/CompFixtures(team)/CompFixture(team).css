@@ -1,0 +1,11 @@
+.compition__team__table__div{
+    margin-top: 2vh;
+}
+.team__fixtures__comp div {
+    /* margin-right: 12px; */
+    display: inline-block;
+}
+.team__fixtures__comp{
+    display: flex;
+    align-items: center;
+}

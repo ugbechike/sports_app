@@ -1,0 +1,57 @@
+.match__logo {
+    width: 100%;
+}
+
+.logo__end {
+    text-align: center;
+}
+
+.match__wrapper {
+    background: #F0F1F3;
+    padding-top: 15px;
+    margin-top: 5vh;
+}
+
+.match__row {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.match__time{
+    border-radius: 5px;
+    background: #C4C4C4;
+    text-align: center;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.match__today{
+    color: #000000;
+    font-family: Avenir Next LT Pro;
+    font-size: 18px;
+}
+
+.matches__align {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.show__visitor__team{
+    display: none
+}
+@media(max-width: 767px){
+    .show__visitor__team{
+        display: unset;
+    }
+    .hide__visitor__team{
+        display: none;
+    }
+    .match__logo {
+        width: 10vw;
+    }
+}

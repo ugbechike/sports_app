@@ -1,0 +1,20 @@
+.latest__post-margin {
+    margin-top: 120px;
+}
+
+.latest__align {
+    text-align: center;
+    border: 1px solid #000060;
+    width: 23%;
+    border-radius: 4px;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 6px;
+    cursor: pointer;
+}
+
+/* .latest__container {
+    text-align: center;
+} */

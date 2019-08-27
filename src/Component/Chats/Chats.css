@@ -1,0 +1,29 @@
+.chat__top__div{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(166, 179, 194, 0.2);
+    border-radius: 3px;
+    margin: 3vh 0 3vh 0;
+    padding: 10px;
+}
+.text_area__div{
+    display: table-caption;
+}
+.chat__profile__div{
+    margin-bottom: 1.5vh;
+}
+.chat__profile__div img{
+    margin-right: 1vw;
+}
+.text_area__div textarea{
+    border: none;
+}
+.text_area__div button{
+    border: 1px solid #000060;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #000060;
+    background: white;
+}
+p span{
+    color: red
+}

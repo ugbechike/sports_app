@@ -1,0 +1,38 @@
+.clubs__images {
+    width: 20%;
+}
+
+.international {
+    border-bottom: 1px solid #D3D4D8;
+    padding: 12px;
+    cursor: pointer;
+    /* margin-bottom: 12px; */
+    color: #000000 !important;
+}
+
+.arrows {
+    text-align: end;
+}
+
+.list__head {
+    outline: 1px solid #000060;
+    background: #000060;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 50px;
+    height: 4vh
+}
+
+.latest__align {
+    text-align: center;
+    border: 1px solid #000060;
+    width: 23%;
+    border-radius: 4px;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 6px;
+    cursor: pointer;
+}
+

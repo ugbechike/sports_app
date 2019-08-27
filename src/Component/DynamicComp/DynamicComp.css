@@ -1,0 +1,15 @@
+.match_details_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5em;
+}
+
+.details_image_uefa {
+    width: 5%;
+    padding: 9px;
+}
+
+a{
+    color: black;
+}

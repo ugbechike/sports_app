@@ -1,0 +1,13 @@
+.hr__line {
+    /* border:  1px solid #A52121;
+    position: relative;
+    top: 12px; */
+
+    background-color: red;
+}
+
+.featured__post {
+    padding-left: 30px;
+    font-size: 14px;
+
+}

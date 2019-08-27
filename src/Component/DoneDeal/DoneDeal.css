@@ -1,0 +1,29 @@
+.deal_image_cover {
+    width: 20%;
+}
+
+.club_deal_image {
+    width: 100%
+}
+
+.deal_table_cover {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.deal_image_to {
+    width: 12%
+}
+
+.dropdown__result{
+    background: transparent !important;
+    color: black !important;
+    border: none !important;
+}
+
+.select{
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+}

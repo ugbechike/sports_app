@@ -1,0 +1,39 @@
+.latest__container{
+    margin-top: 40px;
+}
+
+
+.post__image_main{
+    width: 100%;
+    height: 100%;
+}
+.post__image-wrapper {
+    margin-top: 10px;
+}
+
+.latest-post__card {
+    margin-top: 10px;
+    color: #000000;
+    font-size: 24px;
+    max-width: 59% !important;
+    
+}
+
+.latest-post__time {
+    position: relative;
+    left: 65%;
+    color: #4C505F;
+    font-size: 12px
+}
+
+.latest__aside {
+    padding-top: 9px;
+}
+
+.seemore__posts {
+    text-align: right;
+    color: #8B90A0;
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+}

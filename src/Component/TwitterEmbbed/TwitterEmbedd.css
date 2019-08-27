@@ -1,0 +1,9 @@
+.embedd_frame {
+    height: 45vh;
+    overflow-y: scroll;
+}
+
+.twitter_name {
+    font-size: 13px;
+    color: green;
+}

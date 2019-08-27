@@ -1,0 +1,45 @@
+.home__team{
+    display: flex;
+    margin-bottom: 2vh;
+}
+.away__team{
+    display: flex;
+}
+.home__team span{
+    font-size: 14px;
+}
+.away__team span{
+    font-size: 14px;
+}
+.away__team h2, .home__team h2{
+    margin: 0;
+}
+.away__team img{
+    margin-right: 1vw;
+}
+.home__team img{
+    margin-right: 1vw;
+}
+.match__detail__div{
+    display: flex;
+    align-self: center;
+}
+.score__board{
+    font-size: 30px;
+    /* line-height: 64px; */
+    margin-right: 1vw;
+}
+.match__detail{
+    align-self: center;
+}
+.live__score__container{
+    width: 70vw;
+    margin: auto;
+}
+.score__board div {
+    background: #F0F1F3;
+    width: 5vw;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 3vh;
+}

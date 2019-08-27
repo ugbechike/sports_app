@@ -1,0 +1,14 @@
+.following__image-wrapper{
+    width: 15%;
+    height: 12vh;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.following__image{
+    width: 48%;
+    padding: -2px;
+    margin-left: 40px;
+    margin-top: 21px;
+}

@@ -1,0 +1,37 @@
+.line__up__pitch{
+    background: #00BB00;
+    opacity: 0.7;
+    /* transform: rotate(-90deg); */
+    /* width: 90%; */
+    height: 50vh;
+    margin-bottom: 3vh;
+    border-radius: 5px;
+}
+.team__squard{
+    display: inline-flex;
+    align-items: center;
+    padding: 5px;
+}
+.team__squard p{
+    margin: 0;
+    padding: 0 0 0 1vw;
+}
+.lineup__headers{
+    background: #000060;
+    color: #ffffff;
+    padding: 5px;
+}
+.team__squard img{
+    margin-right: 5px;
+}
+.line__up__teams{
+    display: flex;
+    justify-content: space-between;
+    margin: 3vh 0;
+}
+.line__up__home,.line__up__away{
+    display: grid;
+}
+.line__up__away :last-child,.line__up__home :last-child{
+    color: #8B90A0;
+}

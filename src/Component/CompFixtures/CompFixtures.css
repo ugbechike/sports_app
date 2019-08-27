@@ -1,0 +1,19 @@
+.comp_fixture_match__row {
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+.comp_fixture_match__time {
+    border-radius: 5px;
+    background: #C4C4C4;
+    text-align: center;
+    color: #000000;
+    /* max-width: 12% !important; */
+    padding: 12px;
+}
+
+.comp_fixture_match__logo {
+    width: 3vw;
+    /* padding: 12px; */
+    margin-left: -1em;
+}
